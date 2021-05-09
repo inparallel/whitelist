@@ -1,3 +1,6 @@
 google.ca
 google.com
 texthelp.com
+mmrdb.org
+github.io
+github.com
